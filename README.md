@@ -2,7 +2,7 @@
  This is the code storage for what I do in selenium python.
  For Browser automation, you can use this for controlling basic functions of some popular websites like Instagram, Whatsapp and Facebook.
 
-# Installation
+# Installation:
  Have Python3 installed in your system to use this.
  Then Install seleium using pip.
  ```
