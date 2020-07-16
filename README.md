@@ -23,7 +23,7 @@
 
 # Using the codes
  The code is divided into cells, have the jupyter server installed so as to run the code in parts.
- To run the code:
+ To run the code :
  ```
  ctrl + Enter
  shift + Enter
