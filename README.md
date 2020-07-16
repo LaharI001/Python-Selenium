@@ -4,7 +4,7 @@
 
 # Installation:
  Have Python3 installed in your system to use this.
- Then Install seleium using pip.
+ Then Install seleium using pip...
  ```
  pip install -U selenium
  ```
