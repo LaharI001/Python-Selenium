@@ -14,7 +14,7 @@
 
  For using any other browser, change the webdriver.Chrome() to Webdriver.Firefox(), etc for other browsers and then get their respective browsers.
 
-# Create Environment variables
+# Create Environment variables:
  Create a .env file with the following data
  ```
  INSTA_PASSWORD = "your-insta-password"
