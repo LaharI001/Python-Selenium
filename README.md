@@ -9,7 +9,7 @@
  pip install -U selenium
  ```
 
- I have used chrome browser, so this is for using it with Google Chrome.
+ I have used chrome browser, so this can we used with google chrome
  Then install the chrome browser driver from https://chromedriver.chromium.org/downloads
 
  For using any other browser, change the webdriver.Chrome() to Webdriver.Firefox(), etc for other browsers and then get their respective browsers.
